@@ -1,0 +1,26 @@
+{
+  "name": "fizz_buzz",
+  "version": "1.0.0",
+  "description": "Make a fizz buzz module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Need to make some tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brockers/fizz_buzz.git"
+  },
+  "keywords": [
+    "fizz",
+    "buzz"
+  ],
+  "author": "Bobby Rockers <rrockers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brockers/fizz_buzz/issues"
+  },
+  "homepage": "https://github.com/brockers/fizz_buzz#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
